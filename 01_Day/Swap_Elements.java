@@ -28,8 +28,4 @@ public class Swap_Elements {
         nums[index2] = temp;
     }
 }
-<<<<<<< HEAD
  
-=======
-
->>>>>>> 9954ae5b2d23cede7f26ce30a1d4dddbdc0fb7ca
