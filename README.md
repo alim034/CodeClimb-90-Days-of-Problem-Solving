@@ -41,7 +41,7 @@ Each folder represents one day’s progress and contains Java solutions to the p
 | Day | Problems Solved | Topics Covered        |
 |-----|------------------|------------------------|
 | 1   | Linear Search, Swap Elements | Arrays, Basics       |
-| 2   | ...              | ...                    |
+| 2   | Largest Element, Largest Element in Range, Reverse Array | Arrays                    |
 
 > You can automate this using a markdown table generator or manually update every few days.
 
