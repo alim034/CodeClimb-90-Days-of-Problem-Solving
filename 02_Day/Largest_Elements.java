@@ -15,6 +15,8 @@ public class Largest_Elements {
       System.out.println("Array is: " + Arrays.toString(arr));
 
       System.out.println("Lagest Element in Array is: " + largest_element(arr));
+
+      sc.close();
   }
 
   public static int largest_element(int[] arr){

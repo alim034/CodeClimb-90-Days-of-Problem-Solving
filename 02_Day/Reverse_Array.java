@@ -16,6 +16,8 @@ public class Reverse_Array {
     // Call Reverse function 
     reverse_array(arr);
     System.out.println("Arrays After Reverse: " + Arrays.toString(arr));
+
+    sc.close();
   }
 
   // swap function..

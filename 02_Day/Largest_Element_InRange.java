@@ -15,6 +15,8 @@ public class Largest_Element_InRange {
       System.out.println("Array is: " + Arrays.toString(arr));
 
       System.out.println("Lagest Element in Array is: " + largest_element_inrange(arr , 3,7));
+
+      sc.close();
   }
 
 
