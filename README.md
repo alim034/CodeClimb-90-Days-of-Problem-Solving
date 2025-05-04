@@ -44,6 +44,7 @@ Each folder represents one day’s progress and contains Java solutions to the p
 | 2   | Largest Element, Largest Element in Range, Reverse Array | Arrays  |
 | 3   | Search in String , Search in Range, Minimum Element , Search in 2D array | Arrays , Linear Search Algorithm |
 | 4   | Numbers with Even Digits (Even_Digits) , Maximum in 2D Array, Richest Customer Wealth | Arrays |
+| 5   | Binary Search, Order Agnostic Binary Search | Arrays, Searching       |
 
 > You can automate this using a markdown table generator or manually update every few days.
 
